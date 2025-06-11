@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+  <!-- <p>Date:27/December/2022</p>
+<p>Day:Tuesday</p>
+<p>Class= yes </p> -->
+    
+<style>
+     /* *{
+            margin: 0;
+            padding: 0;
+        } */
+
+.wraper{
+    background-color: black;
+    height: 50%;
+    width: 100vw;
+    position: relative;
+}
+
+.wraper::before{
+    content: "before";
+    background-color: brown;
+    color: yellow;
+    position: absolute;
+    width: 00%;
+            height: 100%;
+         transition: 1s linear;
+         left: 0%;
+}
+.wraper:hover:before {
+            content: "before";
+            background-color: brown;
+            position: absolute;
+            width: 50%;
+            height: 100%;
+            transition: all 1s linear;
+         left: 0%;
+        }
+
+.wraper::after{
+    content: "after";
+    position: absolute;
+    background-color: rgb(94, 19, 19);
+    color: yellow;
+    width: 00%;
+            height: 100%;
+            bottom: 0;
+            transition: all 1s linear; 
+           
+}
+
+.wraper:hover:after{
+    content: "after";
+    position: absolute;
+    background-color: rgb(94, 19, 19);
+    width: 50%;
+            height: 100%;
+            bottom: 0;
+            right: 0%;
+            transition: all 1s linear;
+}
+#hbs{
+    color: yellow;
+    padding: 129px;
+    padding-left: 350px;
+   font-family: Arial, Helvetica, sans-serif;
+   bottom: 0;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+<div class="wraper">
+   <h1 id="hbs">Welcome to career institute</h1>
+</div>
+
+
+</body>
+</html>

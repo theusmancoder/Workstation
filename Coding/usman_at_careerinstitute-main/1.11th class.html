@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+</head>
+<body>
+
+
+
+    
+
+    <style>
+    a[target="_blank"] {
+  background-color: yellow;
+}
+            h1 {
+    font-family: "Sofia", sans-serif;
+  }
+  
+  .abc{
+      background-color: coral;
+      width: 200px;
+      height: 65px;
+      border: 1px solid;
+      overflow: visible;
+    }
+    div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+#div1 {
+  position: absolute;
+  left: 50px;
+  width: calc(100% - 100px);
+  border: 1px solid black;
+  background-color: yellow;
+  padding: 5px;
+}
+#div1 input{
+    width: 1000px;
+    height: 40px;
+    background: transparent;
+   
+}
+    </style>
+    
+    <body>
+
+        <!-- hidden,scroll, auto, overflow-x, overflow-y -->
+
+
+        <h1>Hi, Welcome to Web Development Course</h1>
+        
+        <h2>Overflow: visible</h2>
+        
+        <p>By default, the overflow is visible, meaning that it is not clipped and it renders outside the element's box:</p>
+        
+        <div class="abc">You can use the overflow property when you want to have better control of the layout. The overflow property specifies what happens if content overflows an element's box.</div>
+
+        <br><br>
+        <br>
+        
+<div class="gallery">
+    <a target="_blank" href="multimedia/careerinstitute.jpg">
+      <img src="multimedia/careerinstitute.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="multimedia/careerinstitute.jpg">
+      <img src="multimedia/careerinstitute.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="multimedia/careerinstitute.jpg">
+      <img src="multimedia/careerinstitute.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="multimedia/careerinstitute.jpg">
+      <img src="multimedia/careerinstitute.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="multimedia/careerinstitute.jpg">
+      <img src="multimedia/careerinstitute.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <br><br><br>
+  <h2>CSS [attribute="value"] Selector</h2>
+<p>The link with target="_blank" gets a yellow background:</p>
+
+<a href="https://www.w3schools.com">w3schools.com</a>
+<a href="https://www.w3schools.com/css/css_attribute_selectors.asp" target="_blank">REference</a>
+<a href="http://www.wikipedia.org" target="_top">wikipedia.org</a>
+<br><br><br>
+<div>
+<h1>The calc() Function</h1>
+
+<p>Create a div that stretches across the window, with a 50px gap between both sides of the div and the edges of the window:</p>
+
+<div id="div1"><input type="text" placeholder="Enter your name here" ></div>
+<br><br><br><br><br>
+</div>
+</body>
+</html>

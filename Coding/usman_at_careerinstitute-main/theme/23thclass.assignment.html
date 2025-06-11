@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Theme</title>
+</head>
+
+<body>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .main {
+            width: 100%;
+            background-image: url('photos/upsplash.jpg');
+            background-position: center;
+            background-size: cover;
+            height: 100vh;
+        }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.logo li{
+    color: #ff7200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+font-size: 40px;
+
+}
+
+.menu{
+    display: flex;
+    
+}
+.menu li{
+   font-family: Arial, Helvetica, sans-serif;
+    margin: 25px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    transition: 0.3s ease-in-out;
+    font-weight: bold;
+    
+   
+}
+.menu li:hover{
+    color: #ff7200;
+    transition-duration: 0.3s;
+    
+}
+
+li{
+    list-style: none;
+    color: #fff;
+    margin: 15px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.contact li{
+    background-color: black;
+   font-family: Arial, Helvetica, sans-serif;
+padding: 10px;
+border-radius: 8px;
+font-weight: bold;
+}
+.contact li:hover{
+    color: #ff7200;
+
+}
+.main img{
+    width: 152px;
+    height: 130px;
+    padding-left: 24px;
+
+}
+
+.heading h1{
+color: #ff7200;
+text-align: center;
+font-family: 'Times New Roman';
+font-size: 50px;
+background-color: black;
+
+}
+.heading h1 sub{
+color: white;
+font-size: 20px;
+}
+.btn{
+    background-color: black;
+    color: white;
+  border: #ff7200 1px solid;
+   width: 240px;
+height: 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+cursor: pointer;
+border-radius: 10px;
+font-size: 18px;
+
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+    transition: 1s ease-in-out;
+    border-color: black;
+    border: 2px solid;
+    border-radius: 4px;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+
+    </style>
+
+
+    <div class="main">
+        <div class="navbar">
+            <div class="logo">
+<li>STONE OVE</li>
+            </div>
+
+            <div class="menu">
+<li>HOME</li>
+<li>ABOUT</li>
+<li>SERVICES</li>
+<li>BLOG</li>
+            </div>
+
+            <div class="contact">
+<li>CONTACT US</li>
+            </div>
+ 
+        </div>
+
+<div class="img">
+<img src="photos/log.png" alt="">
+</div>
+<br><br>
+<br><br>
+<div class="heading">
+   <span><h1>Welcome to Stone Ove<sub>Pizza Valley</sub></h1></span>
+</div>
+<br><br>
+<div class="wrapper">
+    <button class="btn">Let me show the menu &rarr;</button>
+</div>
+    </div>
+
+
+</body>
+
+</html>

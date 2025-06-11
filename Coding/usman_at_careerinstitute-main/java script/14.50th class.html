@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      <!-- <p>Date:12/February/2023</p>
+<p>Day: Saturday</p>
+<p>Class=yes </p> -->
+</body>
+
+<!-- 
+<style>
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        list-style: none;
+        padding: 10px;
+
+    }
+
+    ul>li {
+        background-color: white;
+        padding: 10px 20px;
+    }
+
+    .AllImages {
+        width: 100%;
+    }
+</style>
+<ul>
+    <li data-item="Laptop">Laptop</li>
+    <li data-item="Car">Car</li>
+    <li data-item="Bag">Bag</li>
+</ul>
+<div class="AllImages">
+    <img src="./images/bag.jpg" data-filter="Bag" width="300px" height="300px" alt="">
+    <img src="./images/bag1.jpg" data-filter="Bag" width="300px" height="300px" alt="">
+    <img src="./images/bag2.jpg" data-filter="Bag" width="300px" height="300px" alt="">
+    <img src="./images/car.jpg" data-filter="Car" width="300px" height="300px" alt="">
+    <img src="./images/car1.jpg" data-filter="Car" width="300px" height="300px" alt="">
+    <img src="./images/car2.jpg" data-filter="Car" width="300px" height="300px" alt="">
+    <img src="./images/laptop.jpg" data-filter="Laptop" width="300px" height="300px" alt="">
+    <img src="./images/laptop1.jpg" data-filter="Laptop" width="300px" height="300px" alt="">
+    <img src="./images/laptop2.jpg" data-filter="Laptop" width="300px" height="300px" alt="">
+    <img src="./images/laptop3.jpg" data-filter="Laptop" width="300px" height="300px" alt="">
+
+</div>
+<script>
+    let li = document.getElementsByTagName('li');
+    let images = document.getElementsByTagName('img');
+    for (let a = 0; a < li.length; a++) {
+        li[a].addEventListener('click', function () {
+            for (let b = 0; b < li.length; b++) {
+                li[b].style.background = 'white'
+            }
+            li[a].style.background = 'blue';
+            for (let c = 0; c < images.length; c++) {
+                let imagesValue = images[c].getAttribute('data-filter');
+                if (li[a].getAttribute('data-item') == imagesValue) {
+                    images[c].style.display = 'block';
+                } else {
+                    images[c].style.display = 'none';
+                }
+
+            }
+        });
+
+    }
+
+</script> -->
+
+<style>
+
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    list-style: none;
+    padding: 10px;
+
+}
+
+ul>li {
+    background-color: white;
+    padding: 10px 20px;
+  cursor: pointer; 
+}
+
+.AllImages {
+    width: 100%;
+}
+</style>
+<ul>
+<li data-item="shirts">shirts</li>
+<li data-item="pents">pents</li>
+<li data-item="shoes">shoes</li>
+</ul>
+<div class="AllImages">
+<img src="./photos/shirt1.jpg" data-filter="shirts" width="300px" height="300px" alt="">
+<img src="./photos/shirt2.jpg" data-filter="shirts" width="300px" height="300px" alt="">
+<img src="./photos/shirt3.jpg" data-filter="shirts" width="300px" height="300px" alt="">
+<img src="./photos/shirt4.jpg" data-filter="shirts" width="300px" height="300px" alt="">
+<img src="./photos/pent1.jpg" data-filter="pents" width="300px" height="300px" alt="">
+<img src="./photos/pent2.jpg" data-filter="pents" width="300px" height="300px" alt="">
+<img src="./photos/pent3.jpg" data-filter="pents" width="300px" height="300px" alt="">
+<img src="./photos/pent4.jpg" data-filter="pents" width="300px" height="300px" alt="">
+<img src="./photos/shoe1.jpg" data-filter="shoes" width="300px" height="300px" alt="">
+<img src="./photos/shoe2.jpg" data-filter="shoes" width="300px" height="300px" alt="">
+<img src="./photos/shoe3.jpg" data-filter="shoes" width="300px" height="300px" alt="">
+<img src="./photos/shoe4.jpg" data-filter="shoes" width="300px" height="300px" alt="">
+
+</div>
+<script>
+let li = document.getElementsByTagName('li');
+let images = document.getElementsByTagName('img');
+for (let a = 0; a < li.length; a++) {
+    li[a].addEventListener('click', function () {
+        for (let b = 0; b < li.length; b++) {
+            li[b].style.background = 'white'
+        }
+        li[a].style.background = 'blue';
+        for (let c = 0; c < images.length; c++) {
+            let imagesValue = images[c].getAttribute('data-filter');
+            if (li[a].getAttribute('data-item') == imagesValue) {
+                images[c].style.display = 'block';
+            } else {
+                images[c].style.display = 'none';
+            }
+
+        }
+    });
+
+}
+
+</script>
+
+
+
+
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <p>Date:4/December/2023</p>
+<p>Day:Wednessday</p>
+<p>Class=Absent </p> -->
+
+<style>
+  .btn1{
+    padding: 16px 48px;
+    background: none;
+    border: 2px solid #131313;
+    font-size: 20px;
+    color: #131313;
+    cursor: pointer;
+    transition: all 0.3s;
+  }  
+
+.btn1:hover{
+    box-shadow: 0 0 0 5px #fff,0 0 0 10px #ff7a00;
+    border: 2px solid #ff7a00;
+    color: #ff7a00;
+    transform:scale(0.9);
+
+}
+.btn2{
+
+    padding: 16px 48px;
+    background: none;
+    border: 2px solid #131313;
+    font-size: 20px;
+    color: #131313;
+    cursor: pointer;
+    position: relative;
+transition: color 0.3s ease-in-out;
+}
+.btn2::before{
+    content:"";
+    position: absolute;
+    width: 0;
+    height: 100%;
+    background-color: #ff7a00;
+    top: 0; left: 0;
+    transition:width 0.3 ease-in-out;
+    z-index: -1;
+}
+.btn2::before{ width:100%; }
+.btn2:hover{ color:#fff; }
+
+</style>
+
+
+
+
+    <button class="btn1">
+        Button
+    </button>
+<hr>
+<hr>
+
+<button class="btn2">
+    Button
+</button>
+
+
+
+</body>
+</html>

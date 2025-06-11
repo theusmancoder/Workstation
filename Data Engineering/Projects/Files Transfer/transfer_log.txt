@@ -1,0 +1,130 @@
+2025-06-05 20:29:14,578 - WARNING - Skipped (invalid characters): E:\test\9070 M 02 150MTR\done\Dup08 Depth 800 2 1 45MTR.tif
+2025-06-05 20:29:14,579 - WARNING - Skipped (invalid characters): E:\test\9070 M 02 150MTR\done\Shirt08 Depth 800 2 1 100MTR.tif
+2025-06-05 20:29:14,579 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\FireShot Capture 001 - Graphic Designer Portfolio __ Behance - [www.behance.net].png
+2025-06-05 20:29:14,579 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\128 (1).jpg
+2025-06-05 20:29:14,580 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\FireShot Capture 002 - Graphic Design Portfolio __ Behance - [www.behance.net].png
+2025-06-05 20:29:14,580 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\128 (2).jpg
+2025-06-05 20:29:14,580 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\2.cdr
+2025-06-05 20:29:14,580 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\128.jpg
+2025-06-05 20:29:14,582 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\2QCK4BGAYYCws1600Folio.png
+2025-06-05 20:29:14,582 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\AAB0oQ5OLsyONXM0s1600-r.png
+2025-06-05 20:29:14,582 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\city-1150026_960_720.jpg
+2025-06-05 20:29:14,582 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\loadersz.gif
+2025-06-05 20:29:14,582 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\nature-3616194_1920.jpg
+2025-06-05 20:29:14,583 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\JEwCK4BGAYYCws1600head.jpg
+2025-06-05 20:29:14,583 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\New Text Document.txt
+2025-06-05 20:29:14,583 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\portfolio.txt
+2025-06-05 20:29:14,583 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\Q5OLsyONXM0s1600.png
+2025-06-05 20:29:14,583 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\sg-back.jpg
+2025-06-05 20:29:14,583 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\team_2.jpg
+2025-06-05 20:29:14,584 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\Untitled-1.cdr
+2025-06-05 20:29:14,584 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\Kn0s1600-rnth.png
+2025-06-05 20:29:14,584 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\5976_c6ba48f3.webp
+2025-06-05 20:29:14,584 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\9156ec48-b3a2-486a-b752-a067339c248f.webp
+2025-06-05 20:29:14,584 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\DALL·E 2025-02-22 20.37.05 - A modern and professional logo design for 'Designs by Usman'. The logo features sleek and minimalistic typography in a bold yet elegant font. The colo.webp
+2025-06-05 20:29:14,584 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\channels4_profile.jpg
+2025-06-05 20:29:14,585 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\DALL·E 2025-02-22 20.38.56 - A luxurious and professional logo design for 'Designs by Usman'. The logo features elegant and bold typography in a stylish serif or modern sans-serif.webp
+2025-06-05 20:29:14,585 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\Mw7szW-3Ta2sbtta_IjNGg.webp
+2025-06-05 20:29:14,585 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\retro-grunge-texture-background-with-vintage-striped-design-vector-illustration_6343-1550.avif
+2025-06-05 20:29:14,585 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\dcfcb405-52c7-4007-b1bd-5befed7d34eb.jpg
+2025-06-05 20:29:14,586 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\x0CsafWPQaasuMMcRIz4wg.webp
+2025-06-05 20:29:14,586 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 199 M 02\Done\532 Dup Black Des 800 2 1.tif
+2025-06-05 20:29:14,586 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 199 M 02\Done\532Shirt A Black Des 800 2 1 39.tif
+2025-06-05 20:29:14,586 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 199 M 02\Done\533 A Shirt Black Des 800 2 1 39.tif
+2025-06-05 20:29:14,586 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 200 M 02\DONE\07 Depth 800 2 1.tif
+2025-06-05 20:29:14,587 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 200 M 02\DONE\08 Depth 800 2 1.tif
+2025-06-05 20:29:14,587 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 201 M 02\Done\19 Depth 800 2 1.tif
+2025-06-05 20:29:14,587 - WARNING - Skipped (invalid characters): E:\test\DESIGNS BY USMAN\portfolio\logo\usman-logo-941-28909.webp
+2025-06-05 20:29:14,587 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 201 M 02\Done\20 Depth 800 2 1.tif
+2025-06-05 20:29:14,587 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 202 M 02\Done\30 Depth 800 2 1.tif
+2025-06-05 20:29:14,587 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 203 M 02\Done\Shirt D538 Depth 800 2 1.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 203 M 02\Done\1003 AllOver Brite Des 600 Test.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 203 M 02\Done\Shirt D884 B Depth 800 2 1.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 204 M 02 5252\done\AllOver 09 Brite Des 600 2 1 1250 Mtr.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 204 M 02 5252\done\Shirt UE211 Brite Des 600 2 1 440 print.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 205 M 02 Dhanak Black\Done\1013 DUP Depth 800 2 1.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 203 M 02\Done\Shirt D675 Depth 800 2 1.tif
+2025-06-05 20:29:14,588 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 205 M 02 Dhanak Black\Done\1013 Shirt Depth 800 2 1.tif
+2025-06-05 20:29:14,589 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 205 M 02 Dhanak Black\Done\1015 Shirt Depth 800 2 1.tif
+2025-06-05 20:29:14,589 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 205 M 02 Dhanak Black\Done\1016 Dup Brite Des 800 2 1.tif
+2025-06-05 20:29:14,589 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 205 M 02 Dhanak Black\Done\1015 Dup Depth 800 2 1.tif
+2025-06-05 20:29:14,589 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 205 M 02 Dhanak Black\Done\1016 Shirt Brite Des 800 2 1.tif
+2025-06-05 20:29:14,589 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 207 M 02\done\Shirt 08 Depth 800 2 1.tif
+2025-06-05 20:29:14,590 - WARNING - Skipped (invalid characters): E:\test\Fazal Sb Vol 207 M 02\done\Shirt 06 Depth 800 2 1.tif
+2025-06-05 20:29:14,591 - INFO - Transfer summary: 0 files succeeded, 53 failed, 0.00 GB, 0 seconds, Avg speed: 0.00 MB/s
+2025-06-05 21:06:33,152 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:33,152 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:33,153 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:33,153 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:35,153 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:35,153 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:35,154 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:35,154 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:37,155 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:37,156 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:37,156 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:37,157 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:39,157 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:39,158 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:39,159 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:39,159 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:41,159 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:41,159 - ERROR - Destination does not exist: E:\test\9070 M 02 150MTR\done
+2025-06-05 21:06:41,161 - ERROR - Failed to copy G:\New folder\9070 M 02 150MTR\done\Shirt08 Depth 800 2 1 100MTR.tif after 5 attempts: Destination drive E:\test\9070 M 02 150MTR\done\Shirt08 Depth 800 2 1 100MTR.tif not accessible
+2025-06-05 21:06:41,162 - ERROR - Failed to copy G:\New folder\9070 M 02 150MTR\done\Dup08 Depth 800 2 1 45MTR.tif after 5 attempts: Destination drive E:\test\9070 M 02 150MTR\done\Dup08 Depth 800 2 1 45MTR.tif not accessible
+2025-06-05 21:06:41,162 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:41,163 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:41,164 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:41,165 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN
+2025-06-05 21:06:41,165 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\FireShot Capture 002 - Graphic Design Portfolio __ Behance - [www.behance.net].png after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\FireShot Capture 002 - Graphic Design Portfolio __ Behance - [www.behance.net].png not accessible
+2025-06-05 21:06:41,166 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\FireShot Capture 001 - Graphic Designer Portfolio __ Behance - [www.behance.net].png after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\FireShot Capture 001 - Graphic Designer Portfolio __ Behance - [www.behance.net].png not accessible
+2025-06-05 21:06:41,167 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:41,168 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:43,164 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:43,165 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:43,169 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:43,170 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:45,166 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:45,167 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:45,170 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:45,171 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:47,168 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:47,169 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:47,172 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:47,173 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,169 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,170 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\128 (1).jpg after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\128 (1).jpg not accessible
+2025-06-05 21:06:49,171 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,171 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,172 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\128 (2).jpg after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\128 (2).jpg not accessible
+2025-06-05 21:06:49,173 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,174 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,174 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,175 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\2.cdr after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\2.cdr not accessible
+2025-06-05 21:06:49,176 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\128.jpg after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\128.jpg not accessible
+2025-06-05 21:06:49,177 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:49,177 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:51,172 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:51,175 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:51,178 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:51,179 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:53,174 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:53,176 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:53,180 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:53,181 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:55,176 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:55,178 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:55,181 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:55,182 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,177 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,178 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\2QCK4BGAYYCws1600Folio.png after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\2QCK4BGAYYCws1600Folio.png not accessible
+2025-06-05 21:06:57,180 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,180 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,181 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\AAB0oQ5OLsyONXM0s1600-r.png after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\AAB0oQ5OLsyONXM0s1600-r.png not accessible
+2025-06-05 21:06:57,182 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,183 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,184 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\city-1150026_960_720.jpg after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\city-1150026_960_720.jpg not accessible
+2025-06-05 21:06:57,185 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,186 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio
+2025-06-05 21:06:57,187 - ERROR - Failed to copy G:\New folder\DESIGNS BY USMAN\portfolio\JEwCK4BGAYYCws1600head.jpg after 5 attempts: Destination drive E:\test\DESIGNS BY USMAN\portfolio\JEwCK4BGAYYCws1600head.jpg not accessible
+2025-06-05 21:06:57,188 - ERROR - Destination does not exist: E:\test\DESIGNS BY USMAN\portfolio

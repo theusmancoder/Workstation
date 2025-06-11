@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <!-- <p>Date:30/December/2023</p>
+<p>Day: Monday</p>
+<p>Class=yes </p> -->
+
+<input type="text" id="input1">
+<input type="text" id="input2">
+<button  id="btn1">Subtract</button>
+<button  id="btn2">Add</button>
+<button  id="btn3">Multiply</button>
+<button  id="btn4">Divide</button>
+
+
+
+<script>
+    let input1 = document.getElementById("input1");
+    let input2 = document.getElementById("input2");
+    let btn1 = document.getElementById("btn1");
+   
+    btn1.addEventListener('click',function(){
+console.log(input1.value-input2.value);
+    });
+    btn2.addEventListener('click',function(){
+        console.log(typeof input1.value);
+        console.log(typeof input2.value);
+        let value1= parseInt(input1.value);
+        let value2= parseInt(input2.value);
+        console.log(value1+value2);
+    });
+    btn3.addEventListener('click',function(){
+console.log(input1.value*input2.value);
+    });
+    btn4.addEventListener('click',function(){
+console.log(input1.value/input2.value);
+    });
+    console.log(typeof btn2)
+</script>
+
+</body>
+</html>
